@@ -4,7 +4,7 @@
 
 <p>If the index is on the left edge of the array, then the left sum is <code>0</code> because there are no elements to the left. This also applies to the right edge of the array.</p>
 
-<p>Return <em>the <strong>leftmost pivot index</strong></em>. If no such index exists, return -1.</p>
+<p>Return <em>the <strong>leftmost pivot index</strong></em>. If no such index exists, return <code>-1</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
