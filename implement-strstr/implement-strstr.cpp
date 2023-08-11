@@ -3,41 +3,26 @@ public:
     int strStr(string haystack, string needle) {
         int a = haystack.size();
         int b = needle.size();
-        int tmp=0;
         
-        for(int i = 0 ; i<a ; ++i)
+        for(int i = 0 ; i <= a - b ; ++i) // Loop until only valid comparison can be done
         {
-            if(haystack[i] == needle[tmp])
+            int temp = i;
+            int j;
+            
+            for(j = 0 ; j < b ; ++j)
             {
-                int temp=i;
-                int flag = 0;
-                for(int j=0 ; j<b ; j++, temp++)
+                if(haystack[temp] != needle[j])
                 {
-                    if(haystack[temp] != needle[j])
-                    {
-                        flag = 1;
-                        break;
-                    }
-                    
-//                     if(haystack[temp] == needle[j])
-//                     {
-//                         ++temp;
-//                         if(temp == b)
-//                         {
-//                             return i;
-//                         }
-//                     }
-                    
-//                     else
-//                         break;
+                    break; // Mismatch, break out of inner loop
                 }
-                if(flag == 0)
-                {
-                    return i;
-                }
+                temp++;
+            }
+            
+            if(j == b) {
+                return i; // Complete match found
             }
         }
         
-        return -1;
+        return -1; // No match found
     }
 };
