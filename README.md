@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shyamansh/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shyamansh/Leetcode-solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shyamansh/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shyamansh/Leetcode-solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,4 +38,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shyamansh/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shyamansh/Leetcode-solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 <!---LeetCode Topics End-->
