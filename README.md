@@ -38,8 +38,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shyamansh/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0650-2-keys-keyboard](https://github.com/Shyamansh/Leetcode-solution/tree/master/0650-2-keys-keyboard) |
 ## Sorting
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shyamansh/Leetcode-solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+## Math
+|  |
+| ------- |
+| [0650-2-keys-keyboard](https://github.com/Shyamansh/Leetcode-solution/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
