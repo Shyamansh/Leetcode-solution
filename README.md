@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shyamansh/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0075-sort-colors](https://github.com/Shyamansh/Leetcode-solution/tree/master/0075-sort-colors) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shyamansh/Leetcode-solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Binary Search
 |  |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shyamansh/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/Shyamansh/Leetcode-solution/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shyamansh/Leetcode-solution/tree/master/0075-sort-colors) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shyamansh/Leetcode-solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Math
 |  |
